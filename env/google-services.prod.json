@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "772186922764",
+    "project_id": "cicle-prod-c0b2c",
+    "storage_bucket": "cicle-prod-c0b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772186922764:android:8f457e0b5ce8ee217d3329",
+        "android_client_info": {
+          "package_name": "app.cicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772186922764-2sfihof3jemlhshgj2vklnm3h5g2tm4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cicle",
+            "certificate_hash": "f2e805f082a80232ebcd07194653d874149b78f0"
+          }
+        },
+        {
+          "client_id": "772186922764-vnq3ao3rqa31gsfeioi8kcfl13d23crd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEaMl0FQQy0Wz_yNyXDVL2dkbMBSA7wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772186922764-vnq3ao3rqa31gsfeioi8kcfl13d23crd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772186922764-posjb9816smt12c8djmj301qioe2uatq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cicle.my"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
