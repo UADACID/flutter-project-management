@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "inquirer": "^8.2.0",
-    "mem-fs": "^2.2.1",
-    "mem-fs-editor": "9.5.0",
-    "replace-in-file": "^6.3.2",
-    "yosay": "^2.0.2"
-  }
-}
